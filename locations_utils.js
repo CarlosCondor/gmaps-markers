@@ -1,6 +1,5 @@
 /**
  * Utils to work with Google Maps
- * @author Gabriel Lucena
  * @author Juan Carlos Delgado <jcdelgado@wtelecom.es>
  */
 window.location_utils = (function() {
